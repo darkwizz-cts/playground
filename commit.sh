@@ -29,7 +29,7 @@ case "$user_initial" in
         GIT_USER_EMAIL="Khushnuma.Warshi@Cognizant.com"
         ;;
     r|R)
-        GIT_USER_NAME="Rohit Sridhar" # Assuming a name for Rohit as it was missing
+        GIT_USER_NAME="RohitSridhar" # Assuming a name for Rohit as it was missing
         GIT_USER_EMAIL="Rohit.Sridhar@cognizant.com"
         ;;
     p|P)
